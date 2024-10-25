@@ -3,7 +3,7 @@
 import { useState } from "react";
 import useMasonry from "@/utils/useMasonry";
 import Image, { StaticImageData } from "next/image";
-import TestimonialImg01 from "@/public/images/testimonial-01.jpg";
+import TestimonialImg01 from "@/public/images/testimonial-01.png";
 import TestimonialImg02 from "@/public/images/testimonial-02.jpg";
 import TestimonialImg03 from "@/public/images/testimonial-03.jpg";
 import TestimonialImg04 from "@/public/images/testimonial-04.jpg";
