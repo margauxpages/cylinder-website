@@ -21,7 +21,7 @@ export default function HeroHome() {
                 data-aos="fade-up"
                 data-aos-delay={200}
               >
-                We digitize hazardous inventory safely, economically and efficiently, to increase their value and profitability. From gas cylinders to electric polls and chemical barrels, we make sure your hazmats are were they need to be, automatically.
+                We digitize hazardous inventory, to increase their value and profitability. From gas cylinders to electric polls and chemical barrels, we make sure your hazmats are were they need to be, automatically.
               </p>
               <div className="mx-auto max-w-xs sm:flex sm:max-w-none sm:justify-center">
                 <div data-aos="fade-up" data-aos-delay={400}>
