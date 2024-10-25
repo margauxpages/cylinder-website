@@ -67,7 +67,7 @@ export default function Workflows() {
                     </span>
                   </div>
                   <p className="text-indigo-200/65">
-                    We visit your site, understand you volume and specificiations and plan for a small-scale deployment.
+                    We visit your site, understand you volume and specifications and plan for a first small-scale deployment.
                   </p>
                 </div>
               </div>
@@ -113,7 +113,7 @@ export default function Workflows() {
                     </span>
                   </div>
                   <p className="text-indigo-200/65">
-                    We help equip your items and your plant to automatically and accurately track your inventory.
+                    We help equip your items and your plant to automatically and accurately track your inventory movement.
                   </p>
                 </div>
               </div>
