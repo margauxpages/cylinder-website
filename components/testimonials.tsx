@@ -71,10 +71,10 @@ const testimonials = [
   {
     img: TestimonialImg06,
     clientImg: ClientImg06,
-    name: "Eno E.",
-    company: "Naija Comm",
+    name: "Joanne E.",
+    company: "Investitionsbank Berlin",
     content:
-      "TMA, The Hazardous Goods Companion is amazing!!! Thank you for being incredible! ✨",
+      "A technological, digital, creative and sustainable business model. A recognizable positive market and growth potential.",
     categories: [1, 3],
   },
   {
