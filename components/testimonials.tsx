@@ -56,7 +56,7 @@ const testimonials = [
     name: "Emma M.",
     company: "NYSERDA",
     content:
-      "TMA is a perfect fit for us, We are excited to have TMA join.",
+      "TMA is a perfect fit for us!",
     categories: [1, 4],
   },
   {
@@ -83,7 +83,7 @@ const testimonials = [
     name: "Kajarin Y.",
     company: "Avant Now",
     content:
-      "An incredible founder building a truly impactful company  Looking forward to more great achievements!",
+      "An incredible founder building a truly impactful company. Looking forward to more great achievements!",
     categories: [1, 2, 5],
   },
   {
