@@ -54,7 +54,7 @@ const testimonials = [
     img: TestimonialImg04,
     clientImg: ClientImg04,
     name: "Emma M.",
-    company: "NYSERDA",
+    company: "Administered by CTV, support by NYSERDA",
     content:
       "TMA is a perfect fit for us!",
     categories: [1, 4],
