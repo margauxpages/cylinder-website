@@ -3,6 +3,7 @@ import "./css/style.css";
 import { Inter } from "next/font/google";
 import localFont from "next/font/local";
 
+import { GoogleTagManager } from "@next/third-parties/google";
 import Header from "@/components/ui/header";
 
 const inter = Inter({
@@ -58,6 +59,7 @@ export default function RootLayout({
           {children}
         </div>
       </body>
+      <GoogleTagManager gtmId="GTM-MXBT2ZRW" />
     </html>
   );
 }
