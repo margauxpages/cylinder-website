@@ -5,6 +5,7 @@ import localFont from "next/font/local";
 
 import { GoogleTagManager } from "@next/third-parties/google";
 import Header from "@/components/ui/header";
+import Footer from "@/components/ui/footer";
 
 const inter = Inter({
   subsets: ["latin"],
